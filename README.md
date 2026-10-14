@@ -26,16 +26,9 @@ Building practical cybersecurity tools for threat detection, endpoint security, 
 
 ---
 
-**Certifications**
-- CompTIA Security+
-- CompTIA Network+
-- CompTIA A+
-
----
-
 ## Connect With Me:
 
 <a href="https://www.linkedin.com/in/bill-young-53b662232/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="22" height="22" style="max-width: 100%;">
+  <img src="https://cdn.jsdelivr.net/npm/social-media-icons@0.3.1/icons/linkedin.svg" alt="LinkedIn" width="22" height="22" style="max-width: 100%;">
 </a>
 
