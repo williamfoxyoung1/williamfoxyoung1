@@ -14,7 +14,7 @@ Building practical cybersecurity tools for threat detection, endpoint security, 
 - **[Cisco Configuration Generator](https://github.com/williamfoxyoung1/ccna-two-subnet-config-generator)** — Automates VLSM subnetting and generates Cisco router, switch, and endpoint configurations.
 
 ### PowerShell
-- **[Windows Defender Security Audit]((https://github.com/williamfoxyoung1/windows-defender-security-monitor))** — Monitors Microsoft Defender settings and exclusions for unauthorized changes.
+- **[Windows Defender Security Audit](https://github.com/williamfoxyoung1/windows-defender-security-monitor)** — Monitors Microsoft Defender settings and exclusions for unauthorized changes.
 
 ### Bash
 - **[Linux SSH Host-Based IDS](https://github.com/williamfoxyoung1/linux-ssh-hids)** — Detects failed SSH authentication attempts and displays security events in the terminal.
