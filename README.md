@@ -36,7 +36,9 @@ Building practical cybersecurity tools for threat detection, endpoint security, 
 ## Connect With Me
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/bill-young-53b662232/)
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/bill-young-53b662232/)
+<a href="https://www.linkedin.com/in/YOUR_USERNAME/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="22" height="22">
+</a>
 - **GitHub:** [github.com/williamfoxyoung1](https://github.com/williamfoxyoung1)
 
 ---
